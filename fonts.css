@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Homei";
+    src: url("fonts/Homei.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SEGA";
+    src: url("fonts/SEGA.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Razed_bold";
+    src: url("fonts/razed/HBM Razed Bold (personal use only).ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Razed_galerie";
+    src: url("fonts/razed/HBM Razed Galerie (personal use only).ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Bullion";
+    src: url("fonts/Bullion.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Dx";
+    src: url("fonts/Dx.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Dodo";
+    src: url("fonts/Dodo.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Mouth";
+    src: url("fonts/Mouth.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Paint";
+    src: url("fonts/Paint.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Blazed";
+    src: url("fonts/Blazed.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Titul";
+    src: url("fonts/Titul.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
